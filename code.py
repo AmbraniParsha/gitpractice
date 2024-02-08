@@ -1,0 +1,1 @@
+print("hi!! This is Git practice session")
